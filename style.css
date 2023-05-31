@@ -12,6 +12,25 @@ html {
 
 body {
   height: 100vh;
-  display: grid;
-  place-items: center;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+}
+
+.output-container {
+  min-width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: flex-end;
+  gap: 15px;
+}
+
+.btn-even-num {
+  padding: 6px 12px;
+  font-size: 20px;
+  /* background-color: coral; */
+  border: none;
+  border-radius: 4px;
+  margin-top: 15px;
 }
