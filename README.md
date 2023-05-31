@@ -5,7 +5,7 @@ In this repo, I will I solve 50 small JS Projects to practice JavaScript.
 ## List of JS-Problems
 
 - Print all even numbers between 1-10 - done
-- Reverse a Strings
+- Reverse a Strings - done
 - Check if a String is Palindrome
 - Find the Longest Word in a String
 - Capitalize the First Letter of Each Word in a String
