@@ -1,9 +1,11 @@
 # 50-JS-Problems
-In this repo, I will I solve 50 small JS Projects to practice JavaScript. 
+
+In this repo, I will I solve 50 small JS Projects to practice JavaScript.
 
 ## List of JS-Problems
 
-- Reverse a String
+- Print all even numbers between 1-10
+- Reverse a Strings
 - Check if a String is Palindrome
 - Find the Longest Word in a String
 - Capitalize the First Letter of Each Word in a String
