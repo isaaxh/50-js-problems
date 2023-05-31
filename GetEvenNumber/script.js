@@ -4,7 +4,8 @@ const btnEvenNum = document.querySelector(".btn-even-num");
 let evenArray = [];
 
 const printEvenNumbers = () => {
-  for (let i = 0; i < 10; i++) {
+  evenArray = [];
+  for (let i = 1; i < 10; i++) {
     if (i % 2 === 0) {
       console.log(i);
       evenArray.push(i);
