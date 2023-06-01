@@ -7,7 +7,7 @@ In this repo, I will I solve 50 small JS Projects to practice JavaScript.
 - Print all even numbers between 1-10 - done
 - Reverse a Strings - done
 - Check if a String is Palindrome - done
-- Find the Longest Word in a String
+- Find the Longest Word in a String- done
 - Capitalize the First Letter of Each Word in a String
 - Calculate the Factorial of a Number
 - Check if a Number is Prime
